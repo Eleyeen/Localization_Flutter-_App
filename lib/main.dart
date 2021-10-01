@@ -76,6 +76,7 @@ class _MyAppState extends State<MyApp> {
         },
         onGenerateRoute: CustomRouter.generatedRoute,
         initialRoute: homeRoute,
+        
       );
     }
   }
